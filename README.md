@@ -3,6 +3,9 @@ My experience with Unity. My plan is to work on this all summer and see how far 
 
 ![Sample](https://i.imgur.com/3Gud9IY.pngng)
 
+## Instructions
+If you want to play the game, you can do so by downloading this repository as a zip file by pressing the green button, extract it and then run the platformer executable file.
+
 ## Controls
 Key | Action
 ------------ | -------------

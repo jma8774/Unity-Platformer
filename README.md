@@ -9,11 +9,12 @@ If you want to play the game, you can do so by downloading this repository as a 
 ## Controls
 Key | Action
 ------------ | -------------
-WASD | To move
-Left Click | To attack
+Arrows | To move and double jump
 Left Ctrl | To crouch for invisbility
+Z | To attack
 X | To spawn swords
 C | To perform gather and spin attack with swords
+R | To restart
 
 ## Update 1 (6/16/2020)
 Still unsure about what I want this game be like (might create my own art later so that they are consistent with each other even though I am really bad at art), but I am working on skills for now and will decide later. I made my first skill after half a week of working on it after seeing it in some other game. 
@@ -31,3 +32,16 @@ Not focused on the looks for now, just want to create working mechanics for my g
 ![Update 2_2](https://media2.giphy.com/media/IblZVy9cZSGDlxvSP1/giphy.gif)
 
 * Improved the "feel" of the swords as they move around and turn, to make them feel more real.
+
+## Update 3 (6/19/2020)
+* Added option to restart by pressing R
+* Added a better way to spawn in the swords for now (Instead of making them appear out of thin air)
+
+![Update 3_1](https://media3.giphy.com/media/jQtAf4FBGDtUio3LEr/giphy.gif)
+* Added HP bars to the monsters
+
+![Update 3_2](https://media3.giphy.com/media/Pj6Uxf0gxe5YIZ4ItB/giphy.gif)
+* Basic hitboxes on the monsters (The swords can now attack them using X and C)
+
+![Update 3_3](https://media2.giphy.com/media/lQaWA58tICESG39zp7/giphy.gif)
+

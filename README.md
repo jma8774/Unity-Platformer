@@ -24,6 +24,8 @@ Still unsure about what I want this game be like (might create my own art later 
 ## Update 2 (6/17/2020)
 Not focused on the looks for now, just want to create working mechanics for my game.
 
+* Improved the "feel" of the swords as they move around and turn, to make them feel more real.
+
 * Added an attacking range to the swords, so that they will idle if there are no monsters around.
 
 ![Update 2_1](https://media0.giphy.com/media/Vf2VLENGpOK8BicmGM/giphy.gif)
@@ -31,17 +33,16 @@ Not focused on the looks for now, just want to create working mechanics for my g
 
 ![Update 2_2](https://media2.giphy.com/media/IblZVy9cZSGDlxvSP1/giphy.gif)
 
-* Improved the "feel" of the swords as they move around and turn, to make them feel more real.
 
 ## Update 3 (6/19/2020)
-* Added option to restart by pressing R
-* Added a better way to spawn in the swords for now (Instead of making them appear out of thin air)
+* Added option to restart by pressing R.
+* Added a better way to spawn in the swords for now.
 
 ![Update 3_1](https://media3.giphy.com/media/jQtAf4FBGDtUio3LEr/giphy.gif)
-* Added HP bars to the monsters
+* Added HP bars to the monsters.
 
 ![Update 3_2](https://media3.giphy.com/media/Pj6Uxf0gxe5YIZ4ItB/giphy.gif)
-* Basic hitboxes on the monsters (The swords can now attack them using X and C)
+* Added basic hitboxes on the monsters.
 
 ![Update 3_3](https://media2.giphy.com/media/lQaWA58tICESG39zp7/giphy.gif)
 

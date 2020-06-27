@@ -48,8 +48,20 @@ Not focused on the looks for now, just want to create working mechanics for my g
 
 
 ## Update 3 (6/20/2020)
-Reformatted my code because it is getting pretty messy. Gonna take some time and learn to draw simple stuff so that I can use it for my game.
+Reformatted my code because it is getting pretty messy. 
+
+Gonna take some time and learn to draw simple stuff so that I can use it for my game.
 
 * Improved the Player controller by using Raycast to detect collisions.
 
 * Improved the camera by making it smoother.
+
+## Update 4 (6/26/2020)
+Gave up on making my own art, it is too hard 😞. I will continue using public assets and hope it works out.
+
+* Added hitboxes to the Player's normal attack (Z).
+
+* Added working blood particles on hit.
+
+![Update 4_1](https://media3.giphy.com/media/WRjLXItWdspQYfMnZH/giphy.gif)
+

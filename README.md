@@ -55,7 +55,6 @@ Gonna take some time and learn to draw simple stuff so that I can use it for my 
 * Improved the Player controller by using Raycast to detect collisions.
 
 * Improved the camera by making it smoother.
-<<<<<<< HEAD
 
 ## Update 4 (6/26/2020)
 Gave up on making my own art, it is too hard 😞. I will continue using public assets and hope it works out.
@@ -65,6 +64,3 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
 * Added working blood particles on hit.
 
 ![Update 4_1](https://media3.giphy.com/media/WRjLXItWdspQYfMnZH/giphy.gif)
-
-=======
->>>>>>> 96ad09b74b9fe0d5036af74279a516c736a9a4ac

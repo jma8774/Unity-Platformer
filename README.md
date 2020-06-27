@@ -64,3 +64,12 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
 * Added working blood particles on hit.
 
 ![Update 4_1](https://media3.giphy.com/media/WRjLXItWdspQYfMnZH/giphy.gif)
+
+## Update 5 (6/27/2020)
+* Added camera shake on enemy death.
+* Added white particles on death (It's gooing to be the mana system of my game).
+
+![Update 5_1](https://media1.giphy.com/media/XZTnhsQbNlHE5grPOt/giphy.gif)
+* Added cast animation.
+
+![Update 5_2](https://media3.giphy.com/media/IdxNenAKSvlxdQqf2F/giphy.gif)

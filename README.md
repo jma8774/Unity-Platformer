@@ -5,12 +5,12 @@ My experience with Unity. My plan is to work on this all summer and see how far 
 
 ## Instructions
 If you want to play the game, you can do so by downloading this repository as a zip file by pressing the green button, extract it and then run the platformer executable file.
-
+Or go to the following link https://simmer.io/@Jee/demo-platformer
 ## Controls
 Key | Action
 ------------ | -------------
 Arrows | To move and double jump
-Left Ctrl | To crouch for invisbility
+Left Ctrl | To crouch for invisibility
 Z | To attack
 X | To spawn swords
 C | To perform gather and spin attack with swords
@@ -67,7 +67,7 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
 
 ## Update 5 (6/27/2020)
 * Added camera shake on enemy death.
-* Added white particles on death (It's gooing to be the mana system of my game).
+* Added white particles on death (It's going to be the mana system of my game).
 
 ![Update 5_1](https://media1.giphy.com/media/XZTnhsQbNlHE5grPOt/giphy.gif)
 * Added cast animation.

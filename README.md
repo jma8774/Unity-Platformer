@@ -73,3 +73,14 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
 * Added cast animation.
 
 ![Update 5_2](https://media3.giphy.com/media/IdxNenAKSvlxdQqf2F/giphy.gif)
+
+## Update 6 (6/29/2020)
+* Added sound effects to many things.
+* In the middle of transitioning to a dark game environment.
+* Added a couple of things when the Player gets hit to show impact:
+  * Slowing time down.
+  * A small camera shake.
+  * A loud fading sound effect while lowering the background music.
+  * Particles to indicate that the Player got hit and particles indicating that the player is invincible for a short duration.
+
+![Update 6_1](https://media2.giphy.com/media/RitjaZ6RpA6yKruewS/giphy.gif)

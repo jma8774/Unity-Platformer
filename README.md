@@ -5,6 +5,7 @@ My experience with Unity. My plan is to work on this all summer and see how far 
 
 ## Instructions
 If you want to play the game, you can do so by downloading this repository as a zip file by pressing the green button, extract it and then run the platformer executable file.
+
 Or go to the following link https://simmer.io/@Jee/demo-platformer
 ## Controls
 Key | Action

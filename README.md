@@ -89,7 +89,7 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
 ## Update 7 (7/02/2020)
 * Changed pixel size of flying sword to match the pixel style.
 * Changed particles of particle effects to be pixel style as well.
-* Complete overhaul of graphics (credits to Trixie on Itch.io):
+* Complete overhaul of graphics (credits to Trixie on Itch.io for the tileset):
   * Added multi-layering graphics to the game to make it pop out more by making some things go behind our character and some in front.
   * Added lighting (fading in and out) to various objects such as the lights hanging from the tree.
   * Added parallax background.

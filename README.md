@@ -85,3 +85,14 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
   * Particles to indicate that the Player got hit and particles indicating that the player is invincible for a short duration.
 
 ![Update 6_1](https://media2.giphy.com/media/RitjaZ6RpA6yKruewS/giphy.gif)
+
+## Update 7 (7/02/2020)
+* Changed pixel size of flying sword to match the pixel style.
+* Changed particles of particle effects to be pixel style as well.
+* Complete overhaul of graphics (credits to Trixie on Itch.io):
+ * Added multi-layering graphics to the game to make it pop out more by making some things go behind our character and some in front.
+ * Added lighting (fading in and out) to various objects such as the lights hanging from the tree.
+ * Added parallax background.
+ * Random light and cloud particles spawning based on Camera position.
+
+![Update 7_1](https://media2.giphy.com/media/JRJ4K6Ml7CrlpyPPIn/giphy.gif)

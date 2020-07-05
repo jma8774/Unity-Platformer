@@ -6,7 +6,7 @@ My experience with Unity. My plan is to work on this all summer and see how far 
 ## Instructions
 If you want to play the game, you can do so by downloading this repository as a zip file by pressing the green button, extract it and then run the platformer executable file.
 
-Or go to the following link https://simmer.io/@Jee/demo-platformer
+Or go to the following link https://jeemong.itch.io/demo-platformer
 ## Controls
 Key | Action
 ------------ | -------------
@@ -96,3 +96,5 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
   * Random light and cloud particles spawning based on Camera position.
 
 ![Update 7_1](https://media2.giphy.com/media/JRJ4K6Ml7CrlpyPPIn/giphy.gif)
+
+Will be taking a break from this.

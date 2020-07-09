@@ -1,5 +1,5 @@
 # Unity Platformer
-My experience with Unity. My plan is to work on this all summer and see how far I can get with it.
+My experience with Unity.
 
 ![Sample](https://i.imgur.com/3Gud9IY.pngng)
 
@@ -97,4 +97,4 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
 
 ![Update 7_1](https://media2.giphy.com/media/JRJ4K6Ml7CrlpyPPIn/giphy.gif)
 
-Will be taking a break from this.
+Going to stop working on this for now because I want to try learning React.

@@ -97,4 +97,4 @@ Gave up on making my own art, it is too hard 😞. I will continue using public 
 
 ![Update 7_1](https://media2.giphy.com/media/JRJ4K6Ml7CrlpyPPIn/giphy.gif)
 
-Going to stop working on this for now because I want to try learning React.
+Going to stop working on this for now because I want to practice interview questions on LeetCode.
